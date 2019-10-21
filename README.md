@@ -1,2 +1,2 @@
-# U2A-generator viewer
+# U2A viewer
 App viewer
