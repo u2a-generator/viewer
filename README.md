@@ -1,2 +1,2 @@
-# U2A viewer app
-Viewer app
+# U2A desktop viewer app
+Desktop viewer application
